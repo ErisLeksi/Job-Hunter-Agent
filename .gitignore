@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive environment variables (DO NOT COMMIT)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
